@@ -6,7 +6,15 @@ To view markdown, use https://markdown-it.github.io <br><br>
 This repository is for students to demonstrate their Git and GitHub skills.<br><br><br><br><br>  
 
 ## Project Descripton: 
-\<*insert your project description here when instructed*><br><br><br><br><br>
+\<*#Welcome to the Project*
+This project is about reviewing **everything** that we learned, using our *previous* course's project.><br><br><br><br><br>
+
+Based on the follow:
+- using HTML and CSS files for the example.
+- using Git and Github
+- and having the push ablitity to have the project remotely.
              
 ## Practice working in detached HEAD mode:
-Secret phrase: \<*i*nsert secret-phrasse here when instructed*>
+Secret phrase: \<"I traveled back in time to find this">
+
+```Hopefully this project isn't a major bust.```
